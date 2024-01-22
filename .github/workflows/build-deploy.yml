@@ -1,4 +1,4 @@
-name: Build and deploy app
+name: Build and deploy app Workflow
 
 on:
   push:
