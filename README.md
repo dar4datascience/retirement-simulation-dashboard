@@ -3,9 +3,9 @@ Retirement simulation dashboard
 
 This is a retirement savings simulation dashboard, built with [Quarto](https://quarto.org/) and [Shiny](https://shiny.posit.co/py/) for Python. Quarto provides the document structure and layout, and Shiny provides the interactivity.
 
-[![Screenshot of retirement simulation dashboard](./retirement-gallery.png)](https://wch.github.io/retirement-simulation-dashboard/)
+[![Screenshot of retirement simulation dashboard](./retirement-gallery.png)](https://dar4datascience.github.io/retirement-simulation-dashboard/)
 
-[Live dashboard](https://wch.github.io/retirement-simulation-dashboard/)
+[Live dashboard](https://dar4datascience.github.io/retirement-simulation-dashboard/)
 
 [Learn more](https://quarto.org/docs/dashboards/interactivity/shiny-python/index.html) about using Quarto and Shiny to create interactive dashboards
 
@@ -86,5 +86,5 @@ You can deploy your dashboard every time you push to a repository, with GitHub A
 
 It will then start building and deploying your dashboard. You can view the progress in the **Actions** tab of your repository.
 
-If the page successfully deploys, you can view it at `https://<username>.github.io/<repo-name>/`. For example, the dashboard in this repository is deployed at https://wch.github.io/retirement-simulation-dashboard/.
+If the page successfully deploys, you can view it at `https://<username>.github.io/<repo-name>/`. For example, the dashboard in this repository is deployed at https://dar4datascience.github.io/retirement-simulation-dashboard/.
 
